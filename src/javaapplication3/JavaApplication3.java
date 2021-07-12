@@ -16,7 +16,7 @@ public class JavaApplication3 {
      */
     public static void main(String[] args) {
         
-        System.out.println("helo world"+" my love  to code e jhbbjh ");
+        System.out.println("helo world"+" my loghve  to code e jhbjmhbjh ");
         
         
         
